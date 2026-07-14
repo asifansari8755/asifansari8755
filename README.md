@@ -14,11 +14,7 @@
 - VS Code
 
 ### 📱 Projects
-- Calculator App
-- Notes App
-- Weather App
-- E-Commerce App
-- Chat App
+- 
 
 ### 📫 Connect with Me
 - GitHub: https://github.com/asifansari8755
