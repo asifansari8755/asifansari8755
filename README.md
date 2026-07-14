@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Asif Ansari
 
-<!--
-**asifansari8755/asifansari8755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Flutter Developer
 
-Here are some ideas to get you started:
+🚀 Passionate Flutter Developer with experience in building cross-platform mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+- Flutter
+- Dart
+- Firebase
+- REST API
+- Git & GitHub
+- Android Studio
+- VS Code
+
+### 📱 Projects
+- Calculator App
+- Notes App
+- Weather App
+- E-Commerce App
+- Chat App
+
+### 📫 Connect with Me
+- GitHub: https://github.com/asifansari8755
